@@ -1,1 +1,3 @@
 /backend/.gradle/
+/backend/build/
+/backend/.idea/
